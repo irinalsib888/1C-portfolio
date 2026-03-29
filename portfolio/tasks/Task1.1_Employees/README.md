@@ -15,7 +15,7 @@
 3. Выбрать в отборе «Только работающие» — уволенные пропадут
 
 ## Скриншоты
-- Было: [1.1_before.png](1.1_before.png)
-- Стало: [1.1_after_no_selection.png](1.1_after_no_selection.png)
-- Стало: [1.1_after_selection.png](1.1_after_selection.png)
-- Код: [1.1_code.png](1.1_code.png)
+- Было: ![task1.1_before.png](task1.1_before.png)
+- Стало: ![task1.1_after_no_selection.png](task1.1_after_no_selection.png)
+- Стало: ![task1.1_after_selection.png](task1.1_after_selection.png)
+- Код: ![task1.1_code.png](task1.1_code.png)
