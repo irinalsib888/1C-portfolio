@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Catalog.Валюты" id="2a33b43d-e9e2-481d-9fe3-45ca7f1b65dd" configVersion="ad42b056baf4dd436e74bd93577ef75b59b218a0"/>
+		<Metadata name="Catalog.ВидыЦен" id="03c1ee0a-ac28-4dbc-9d49-7eff66c3b80c" configVersion="0e5a2606a07ba2f3cfe0fa54b893e3fd46876865"/>
+		<Metadata name="Catalog.ГруппыФинансовогоУчетаРасчетов" id="0ef93c72-1a63-489b-8186-d242874636e2" configVersion="963a30eda9a8d6af95c3920cb1572fe95a5b9baf"/>
+		<Metadata name="Catalog.ДоговорыКонтрагентов" id="b1dac76e-8f6f-4955-b654-897d8b952d01" configVersion="508f7edea5db7d74e00be4e517e83fa42a8c7299"/>
+		<Metadata name="Catalog.ЗоныДоставки" id="01bfeef4-3862-402f-871a-f938b07f09a2" configVersion="99cb3c91187dbd0b4cc0900f85352e448ed7f1a6"/>
+		<Metadata name="Catalog.КартыЛояльности" id="a08c9ecc-d453-4172-83b1-a050ebf21c4d" configVersion="6f268feff791551bec713292ee9c6be7b9b1ba67"/>
+		<Metadata name="Catalog.КонтактныеЛицаПартнеров" id="d84cf321-69c2-45f5-a781-ce0a8cbd1531" configVersion="788c67450ffea152e950cdb3180b16c87135b455"/>
+		<Metadata name="Catalog.Контрагенты" id="bf800514-9b89-435e-8648-0f2225f88c81" configVersion="658121a6b3521e26a1f731c0de2ba053fe9c358e"/>
+		<Metadata name="Catalog.НаправленияДеятельности" id="0d1402f9-4c7f-431b-bd78-3255fea398dd" configVersion="141b8e26a948f92de11166f6e7131168a27e326b"/>
+		<Metadata name="Catalog.Номенклатура" id="2b75aeea-a0db-40d8-908b-6899dca71977" configVersion="f1a1b0b28a51aed6843e084ae9271734fa5efedc">
+			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="4ca11466-d843-4010-bb4f-aca53b2a28e8"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ЕдиницаИзмерения" id="c515485c-7210-482a-bd11-7f4010b2617e"/>
+		</Metadata>
+		<Metadata name="Catalog.НоменклатураКонтрагентов" id="83e85ee1-cef0-48bd-bbf3-a23d3ed9977f" configVersion="5c443e5bf16895508cadb03328c2338298b8adb1"/>
+		<Metadata name="Catalog.Организации" id="cf4a2717-6ae0-4bb0-9308-cbde118782e1" configVersion="46145b0c7a5eb03bfd687fc6d90e150eba346d96"/>
+		<Metadata name="Catalog.Партнеры" id="ef5814e2-5cde-4acb-b910-7665f88e0a13" configVersion="df7b59b859335e00c4e11f9bdd2a5fb801c76656"/>
+		<Metadata name="Catalog.Пользователи" id="4bcdccda-9672-43ae-8ba6-fc09af8034da" configVersion="27dbf33565108259ca120f8dae12c29628b7bc94"/>
+		<Metadata name="Catalog.Приоритеты" id="9f19bd35-f40f-4bbe-9ceb-0151f1b658a7" configVersion="b16f5456429aedbfad4c32462a25cfe7a40bd60d"/>
+		<Metadata name="Catalog.ПричиныОтменыЗаказовКлиентов" id="0cf54a5a-81c7-4656-a5a0-1631fd5ec49c" configVersion="9740c89d789d46262749758f5667073c04551378"/>
+		<Metadata name="Catalog.СделкиСКлиентами" id="23f58d5d-de1d-4a10-b427-6734ed578cdb" configVersion="bc074ee4addc2f36a171341ed6668a2ea7238d1c"/>
+		<Metadata name="Catalog.СерииНоменклатуры" id="e310e8a6-6dfe-4690-85f7-d07af92b04b7" configVersion="ff14692668c71368a2c083e52f09ddc941a8c25e"/>
+		<Metadata name="Catalog.Склады" id="b7be7812-ad03-4cb6-b936-923213b01d62" configVersion="c10e4639344b46e2d6383ec8d5ebd3839da5f84f"/>
+		<Metadata name="Catalog.СоглашенияСКлиентами" id="6c5982c8-3021-486d-a2ca-5f818e458879" configVersion="f08b4306c23f72860a7f59c448d20e9450cb7058"/>
+		<Metadata name="Catalog.СтавкиНДС" id="c02169df-6357-4375-a6a6-c547ba1b460b" configVersion="53fea26eee0adc861f2c017eedbf61027c2cab5f"/>
+		<Metadata name="Catalog.СтруктураПредприятия" id="a63ef543-b1c8-4531-99c2-8fa7a8011cd1" configVersion="cd42c6c5b906da64c64f2f2655ee2bbd8d867f50"/>
+		<Metadata name="Catalog.УпаковкиЕдиницыИзмерения" id="f539b8d2-b6cf-4656-950c-130a1f6e32ce" configVersion="aaf018e0ce36030e770e6aeca094d2dde3d4bb96"/>
+		<Metadata name="Catalog.ФизическиеЛица" id="ceeffe55-9003-4f24-8f3f-b7bbab9de994" configVersion="4b853640b3a27975c92bec43b95996321d358874"/>
+		<Metadata name="Catalog.ХарактеристикиНоменклатуры" id="bf2a4515-3301-4e1e-8c27-36e278097899" configVersion="db3b05568db4c41db697fca3ba15bdd80b0a587a"/>
+		<Metadata name="CommonPicture.ЗаполнитьПоШаблону" id="e16fffe0-f3af-4f78-ad37-34a77362bd2c" configVersion="032cd9c503589c5fd001dcd462f31a8de7873676"/>
+		<Metadata name="CommonPicture.ЗаполнитьФорму" id="e573c8b6-5fb9-4d1f-9dd3-872d858f55eb" configVersion="43613f72d6a7e477ee8c349f3a940420ff006917"/>
+		<Metadata name="CommonPicture.Набор" id="978c9ace-e7ff-4330-a0f7-912b0ebaa180" configVersion="fe59ed5515737475769b731868d1da40e953c0a6"/>
+		<Metadata name="CommonPicture.Наборы" id="f8409d78-787e-415e-b37d-22e55a338b3f" configVersion="05f2648f2865a54f1b6d940c6f340d1a34420f7f"/>
+		<Metadata name="CommonPicture.Отчеты" id="b8dc741e-88cd-4c96-82fd-6c89680549d1" configVersion="4f597600cae6c811df0ab5aa7ca161a35bfdc7c5"/>
+		<Metadata name="Configuration.Расш_СогласованиеЦен_Золотухина" id="e6d22fe1-3786-4353-8460-6f15326b39e4" configVersion="385ad667675c1ed8da9d0fbd1001148b00ea629c"/>
+		<Metadata name="DefinedType.Артикул" id="4fd0353d-784c-4e3a-86f4-b752e12150f2" configVersion="97c7117fb7fba38e9d0332f592ea301cf646e1e5"/>
+		<Metadata name="DefinedType.ДенежнаяСуммаЛюбогоЗнака" id="e93ded90-e00e-4362-a50a-f3319d43245a" configVersion="89c2e308ee78038e7947786ed5f4c5c56a5c067e"/>
+		<Metadata name="DefinedType.ДенежнаяСуммаНеотрицательная" id="20db3465-6d13-42ae-9928-cdd940d0a64a" configVersion="a0edf7b82be3ff0819a16f490bf1c9a89330fe1e"/>
+		<Metadata name="DefinedType.Цена" id="374b0a74-0436-480e-882e-4a40cbae09d0" configVersion="2adb89bc177183693332831a9b465d06d78d4d90"/>
+		<Metadata name="Document.ЗаказКлиента" id="2f1b2fd1-47b5-4b2f-b030-03e37a4259fc" configVersion="52228cddd3b5efa5ce6ecaf5930124796fb1e4e5">
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.СуммаНачисленныхБонусныхБалловВВалюте" id="0092ce97-fe6b-4394-bfcd-b89eb0655ab6"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.Сделка" id="047ee935-cba3-488f-b4bd-e0cf4efeb4a3"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.НоменклатураПартнера" id="05ae3ba0-b998-48c3-9ff0-26e77fd4919d"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.КартаЛояльности" id="15028dcd-c346-48aa-a20f-227cceb9a3ee"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.ВариантОбеспечения" id="182779f6-dcd9-4377-9a81-552930346955"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.ЦенаВключаетНДС" id="1afd0293-5c1b-4f0c-ba50-c5c91a1b22c4"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.ВремяДоставкиС" id="1f4cb757-6275-4102-9b86-5c377a99b792"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.Курьер" id="2079ea5f-fc07-4313-b4f0-5290e662718a"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.Серия" id="2ad9c0ae-43a1-4e83-b42e-2395912ec840"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.Подразделение" id="2fa2cc42-b462-433d-b20f-26145e5e3a7e"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.Характеристика" id="32c50f0d-7273-4b80-a920-f3a51138609d"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.ДатаПоДаннымКлиента" id="33b91ffa-8e16-4bcc-b73e-bf943ae38a1b"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.НаправлениеДеятельности" id="3ae67762-73a0-4aed-b7ca-69d6f074a76d"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары" id="3c4f65f4-3261-43a2-bd0a-e8874bec2489"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.ОсобыеУсловияПеревозкиОписание" id="3c7ea47e-30e4-4117-af51-68ab15cea32b"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.ПричинаОтмены" id="3c90f052-c9bf-4d89-b4ef-1ef74d2add6a"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.ОсобыеУсловияПеревозки" id="3e69891a-3294-4449-8f20-00735ddb51fb"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.Партнер" id="46a9b387-c671-490d-8a77-d9ba3e772c74"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.СрокВозвратаМногооборотнойТары" id="48c37b9e-a511-4f9f-a6c2-a214edf9180c"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.Отменено" id="4ebbcae9-75ae-4c5e-8147-673acce711d5"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.КонтактноеЛицо" id="519f6c1e-5ffa-4a7b-a109-4effd924c4ce"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.СуммаБонусныхБалловКСписаниюВВалюте" id="54c71b86-06e0-4a8d-978d-10200329267e"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.КоличествоУпаковок" id="58381b15-db27-4be9-b801-85f78cd22395"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.Упаковка" id="6413c6c1-5056-4a99-a2d7-c4d3dc045ba4"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.ВремяДоставкиПо" id="6729fff4-2bd6-4fa6-8349-5b11d30d56ca"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.НоменклатураНабора" id="70d98ecc-d759-4ea2-b61b-8cec05aa0876"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.КодСтроки" id="73a8d61c-5974-4aa2-b28b-de571329afd6"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.ТребуетсяЗалогЗаТару" id="77fc4f00-0051-4cb8-b065-2bef68818dd2"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.СуммаСНДС" id="791197eb-ac1a-4863-8e7d-9c4fe5751065"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.ДополнительнаяИнформацияПоДоставке" id="7b278376-06bc-4e18-bbd2-d38d6aac28e6"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.Менеджер" id="7b9f6690-72c4-4532-ac5a-46d52a929973"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.Цена" id="7da38851-4aec-42e4-b145-68b25be79d6c"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.ДополнительнаяИнформация" id="7dd2bb99-c3a9-4c19-972a-bc82ebf49c88"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.Склад" id="80c2bbce-9fe6-4aef-967d-d39f83c5caef"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.СтавкаНДС" id="87648797-040a-4e29-aa5c-c2fd1fded335"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.ЭтапыГрафикаОплаты" id="8cfb1b4d-04c7-49e3-8fc8-ace1da47a494"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.Обособленно" id="8d4f165c-fc64-4fa8-90c9-b1ad13fd5f70"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.НеОтгружатьЧастями" id="8f1b5b96-722a-461a-9ca7-c6ef53ecb80c"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.Комментарий" id="94e554ee-629c-4786-a980-ff457e34c3ec"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.Склад" id="9c15ab64-36ee-479a-8f28-98f1fc7ac500"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.Расш2_Согласована" id="9cdc309d-f39a-4d75-91af-f41aea7007bb"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.НалогообложениеНДС" id="9d89d073-9398-45d9-ab48-bc629d23e9ed"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.Содержание" id="a3ba2eb4-8fcf-47f7-8b64-b523152c5970"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.Договор" id="a48ed30b-9fc0-42da-b944-2c6ab9f8f4cc"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.СуммаРучнойСкидки" id="a58482a6-7fb5-4e54-947c-5036e9ecfd08"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.НомерПоДаннымКлиента" id="aa240bf5-dbf1-4360-9d06-cc38f27fbdab"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.СуммаАвтоматическойСкидки" id="b297d19a-5a8d-4407-8bdb-fba2a50cee8d"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.СуммаНДС" id="b2b5a040-4627-4df9-bf1c-c012478bb109"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.ДатаОтгрузки" id="b8062fed-2c9f-44c7-b76e-ccd2e9432e68"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.Расш2_КомментарийСогласования" id="bbe89f1a-440e-4ebc-9440-3d6e488b0bde"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.ДатаОтгрузки" id="bd71a4c3-5c06-4ed8-8470-d0c31537264e"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.ВидЦены" id="c47d8487-fb07-46fb-b40a-d7b44a2a9b4e"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.ДатаСогласования" id="c5368f01-b2ce-42c1-93cd-4c45fba32af0"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.Номенклатура" id="c6a6c548-40a5-4bb3-8473-15b4828003be"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.Сборщик" id="c9d4eb04-08ac-4f2e-ba40-9ce52a482c62"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.Подразделение" id="ca1f5d62-abf7-4dd2-9871-b7355096f7a5"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.ПроцентАвтоматическойСкидки" id="ca487bdc-b7af-4cb0-ac21-49a903aa68c6"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.Расш2_ТребуетсяСогласованиеЦены" id="cff75913-7a4a-4b09-a90f-7b5e452cd8ad"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.АдресДоставки" id="d086f723-4613-45b1-a5cd-610a789b9940"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.АдресДоставкиПеревозчика" id="d0ecd327-21e6-4add-b8e4-b4f0c048a9fd"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.ЗонаДоставки" id="d25a350f-2ba6-4776-b784-3e0de09bd219"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.СпособДоставки" id="d31e0e2d-4b18-4785-b2fd-3e3f39acf656"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.Организация" id="d4b0738e-471d-4144-9c56-58522d984199"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.Соглашение" id="d584d0c5-f1df-47da-b528-b4d81257fb12"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.Автор" id="d898d063-7221-41c2-8efc-4b53b33c96ad"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.Приоритет" id="d9dc86cc-7c81-467f-bb56-df10f07eac32"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.ДокументОснование" id="dd144344-5789-4108-b150-e1a4524be570"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.ХозяйственнаяОперация" id="e08c36df-b801-443e-80ec-7188b0e74eb2"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.ХарактеристикаНабора" id="e0b4e102-35ab-4b4f-b146-65c6411c8239"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.СрокПоставки" id="e21579b5-484f-4fb2-8f51-89d047a38835"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.Статус" id="e496f2e8-8348-4f1d-8458-f8a67fac97a0"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.ГруппаФинансовогоУчета" id="e95127eb-6099-4b38-9358-ae0dec664a4f"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.ПроцентРучнойСкидки" id="eb9fdf78-69dd-4059-a8b0-05bcd3c441c6"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.ВернутьМногооборотнуюТару" id="ec78ceda-c66c-4bd8-99e0-de25aec59607"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.ПеревозчикПартнер" id="fabe2da0-1a65-48ad-830b-c9dae39e7a84"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.Валюта" id="fb991eaa-689a-47f4-a14d-7849b4456dc9"/>
+			<Metadata name="Document.ЗаказКлиента.Attribute.Контрагент" id="ffdb52e4-9abf-4c33-a059-fa5d21976e90"/>
+			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.Сумма" id="fff081a5-8b60-4828-96d5-3a8657362cf3"/>
+		</Metadata>
+		<Metadata name="Document.ЗаказКлиента.Form.ФормаДокумента" id="34f0a683-0369-4e32-8ece-49683d5ed78f" configVersion="0d8c249e3cfae11a76e8ca4d1b50cd9239a69d39"/>
+		<Metadata name="Document.ЗаказКлиента.Form.ФормаДокумента.Form" id="34f0a683-0369-4e32-8ece-49683d5ed78f.0" configVersion="0e0a429af7dcffd057c8da9eed297d6ecd9c7a83"/>
+		<Metadata name="Enum.ВариантыОбеспечения" id="6eff6943-6320-4253-958a-8d45a8e71e7b" configVersion="4952e1b11239e08da0fa79e63492a5fe341f5ab7"/>
+		<Metadata name="Enum.ВариантыОформленияПродажи" id="6f6e1f1b-df89-4d7c-95cc-c64b1bfcc6fc" configVersion="71c8fbdb0d9b5620a3e1a9284d01c4d6931b7b93"/>
+		<Metadata name="Enum.СпособыДоставки" id="2a21eead-6e7f-419d-abf8-2d55e61e4ab5" configVersion="3dfc33edada5ce207d3a89576a3b19a50c293043">
+			<Metadata name="Enum.СпособыДоставки.EnumValue.СиламиПеревозчика" id="1bf7808f-89e4-4cf5-b7a5-236dd7c6b39d"/>
+			<Metadata name="Enum.СпособыДоставки.EnumValue.ДоКлиента" id="67812c69-8b7e-4cd5-b176-dc0a37fd43ad"/>
+			<Metadata name="Enum.СпособыДоставки.EnumValue.СиламиПеревозчикаПоАдресу" id="95f88401-04a8-4181-a690-1aa34ba7af1b"/>
+			<Metadata name="Enum.СпособыДоставки.EnumValue.КПолучателюОпределяетСлужбаДоставки" id="9dbd6337-b19d-4251-a352-81a74df99705"/>
+			<Metadata name="Enum.СпособыДоставки.EnumValue.Самовывоз" id="cbe0e041-e785-4efd-85a6-e005a8408491"/>
+		</Metadata>
+		<Metadata name="Enum.СтатусыДействияВидовЦен" id="8f243bfa-bb60-4804-8c5c-555f736b4e67" configVersion="a8648ae6e51cf3cf002eca58661e37a68b8b4073">
+			<Metadata name="Enum.СтатусыДействияВидовЦен.EnumValue.Действует" id="8d376a34-2eea-4973-8f4e-b8e738d4229f"/>
+		</Metadata>
+		<Metadata name="Enum.СтатусыЗаказовКлиентов" id="1aa893f9-a17a-4d40-a338-845d0ad1adc1" configVersion="a0c3d29cb7d6d11a22631da06ef8961f67b2387f"/>
+		<Metadata name="Enum.ТипыНалогообложенияНДС" id="16c8043a-d1ed-4c52-b6a4-4876618bfe74" configVersion="2a07b1eb3467d1f831d403904395b24050e40b70">
+			<Metadata name="Enum.ТипыНалогообложенияНДС.EnumValue.ПродажаНеОблагаетсяНДС" id="0c3d103f-38dc-44fd-8cb9-fbf7ad0c7f01"/>
+			<Metadata name="Enum.ТипыНалогообложенияНДС.EnumValue.ПродажаНаЭкспорт" id="17fac66f-1a40-42a9-8964-934cdcdd7d68"/>
+			<Metadata name="Enum.ТипыНалогообложенияНДС.EnumValue.ПродажаОблагаетсяЕНВД" id="e2d56946-00e5-4f5d-af5a-231e1b95a9d8"/>
+			<Metadata name="Enum.ТипыНалогообложенияНДС.EnumValue.ПродажаОблагаетсяНДС" id="e3c812fa-d821-4f43-89e4-f79b398c13b8"/>
+		</Metadata>
+		<Metadata name="Enum.ТипыНоменклатуры" id="08976535-9068-4461-80fe-aa032255e2e1" configVersion="bc671e5f84cc7484c55943fa38f8da3515b6812b"/>
+		<Metadata name="Enum.ХозяйственныеОперации" id="f2fa8a76-e2f4-4e97-81f9-82b05f5bdd0f" configVersion="fb4f0c54b72f633c0c78a010cc39351c60a39b55"/>
+		<Metadata name="Language.Русский" id="029c5a40-1649-4502-abe2-9352db938dfa" configVersion="b07adcef630f85e9bcc6ab3c312929a44704c653"/>
+		<Metadata name="Role.Расш2_ОсновнаяРоль" id="c346fce1-c067-4ecd-9576-e006d993a607" configVersion="3fdc84fadd24fe3cedb48ecfc6d5e81811c28021"/>
+		<Metadata name="Role.Расш2_ОсновнаяРоль.Rights" id="c346fce1-c067-4ecd-9576-e006d993a607.0" configVersion="6774c1995346fd1c5934388e1ed38a65b4a0f0a3"/>
+		<Metadata name="StyleItem.ГиперссылкаЦвет" id="37a6b225-198e-480a-9fa1-8f9dcf210c7d" configVersion="1842bc6c91f31c846b66ebe579ba00cd7b74f0e3"/>
+		<Metadata name="StyleItem.ИтогиФон" id="a3e274f8-b7b9-4459-ae07-05e766edfb0e" configVersion="0a585d86bc639764b64cde7684ee210907e9f898"/>
+		<Metadata name="StyleItem.ЦветТекстаПроблема" id="51ec9a76-1b68-469c-91a8-6de7820056ab" configVersion="7adc94f648a1cd5ca5e0a3aa67bf49d42f17d512"/>
+		<Metadata name="StyleItem.ЦветФонаВыделения" id="5b643673-1ace-470d-8f7b-3de7b387cba8" configVersion="83e4fb4353f2bfd988858dbaa393e2ca736c5bed"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
